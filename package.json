@@ -1,0 +1,21 @@
+{
+  "name": "projeto3-fluxo-completo-de-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "build": "echo Build executado com sucesso"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauriene9090/projeto3-fluxo-completo-de-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lauriene9090/projeto3-fluxo-completo-de-ci/issues"
+  },
+  "homepage": "https://github.com/lauriene9090/projeto3-fluxo-completo-de-ci#readme"
+}
