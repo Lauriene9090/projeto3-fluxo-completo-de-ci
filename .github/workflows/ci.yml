@@ -9,7 +9,7 @@ on:  #triggers
       - 'test/**'
       - 'package.json'
       - 'package-lock.json'
-    path-ignore: # nao participam do test no action
+    paths-ignore:  # nao participam do test no Action
       - 'README.md'    
 env:
   PORT: ${{vars.PORT}}
